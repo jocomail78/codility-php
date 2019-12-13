@@ -8,3 +8,4 @@ Codility challenge solutions in PHP. Mainly for evaluation purposes.
 5. PermMissingElem -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 6. TapeEquilibrium -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 7. PermCheck -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
+8. FrogRiverOne -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
