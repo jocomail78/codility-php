@@ -10,4 +10,4 @@ Codility challenge solutions in PHP. Mainly for evaluation purposes.
 7. PermCheck -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 8. FrogRiverOne -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 9. MaxCounters -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
-
+10. MissingInteger -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
