@@ -16,3 +16,4 @@ Codility challenge solutions in PHP. Mainly for evaluation purposes.
 13. MinAvgTwoSlice -> Task Score -> 60% | Correctness -> 100% | Performance -> 20%
 14. CountDiv -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 15. MaxProductOfThree -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
+16. Distinct -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
