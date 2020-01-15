@@ -17,3 +17,4 @@ Codility challenge solutions in PHP. Mainly for evaluation purposes.
 14. CountDiv -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 15. MaxProductOfThree -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 16. Distinct -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
+17. NumberOfDiscIntersections -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
