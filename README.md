@@ -19,3 +19,4 @@ Codility challenge solutions in PHP. Mainly for evaluation purposes.
 16. Distinct -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 17. NumberOfDiscIntersections -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 18. Nesting -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
+19. Brackets -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
