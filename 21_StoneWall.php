@@ -1,3 +1,32 @@
+//Version inspired from https://github.com/delda/codility/blob/master/src/Lesson7/StoneWall.php
+
+// you can write to stdout for debugging purposes, e.g.
+// print "this is a debug message\n";
+function solution($H) {
+    $c = count($H);
+    $edge_height = array();
+    $edge_height_index = 0;
+    $stone_blocks = 0;
+
+    for($i=0; $i<$c; $i++){
+        while($edge_height_index > 0 && $edge_height[$edge_height_index - 1] > $H[$i]) {
+            $edge_height_index--;
+        }
+        if($edge_height_index > 0 && $edge_height[$edge_height_index - 1] == $H[$i]){
+            continue;
+        }else{
+            $stone_blocks++;
+            $edge_height[$edge_height_index] = $H[$i];
+            $edge_height_index++;
+        }
+    }
+
+    return $stone_blocks;
+}
+
+//My version:
+
+
 // you can write to stdout for debugging purposes, e.g.
 // print "this is a debug message\n";
 
