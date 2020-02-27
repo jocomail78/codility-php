@@ -22,3 +22,4 @@ Codility challenge solutions in PHP. Mainly for evaluation purposes.
 19. Brackets -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
 20. Fish -> Task Score -> 87% | Correctness -> 100% | Performance -> 75%
 21. StoneWall -> Task Score -> 28% | Correctness -> 80% | Performance -> 0%
+21. StoneWall V2 -> Task Score -> 100% | Correctness -> 100% | Performance -> 100%
