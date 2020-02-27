@@ -1,19 +1,22 @@
 // you can write to stdout for debugging purposes, e.g.
 // print "this is a debug message\n";
 
-function getFirst(&$h){
-    $ret = reset($h);
-    array_shift($h);
+function getFirst(&$h, &$p){
+    $ret = $h[$p];
+    $p++;
     return $ret;
 }
 
 function solution($H) {
    $h = $H;
+   $p = 0;
    $counter = 1;
-   $current = getFirst($h);
+   $current = getFirst($h, $p);
    $currentList = array();
-   while(is_array($h) && count($h)){
-       $next = getFirst($h);
+   $itemCount = count($h)-1;
+   while($itemCount>0){
+       $next = getFirst($h, $p);
+       $itemCount--;
        if($next == $current){
            //going forward, nothing special
        }else if($next>$current){
